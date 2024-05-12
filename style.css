@@ -15,7 +15,7 @@ h1,h2
     width: 300px;
     margin: 0 auto;
     background-color: aliceblue;
-    border-style: solid;
+    box-shadow: 0 0 10px;
     border-radius: 20px;
     padding: 10px;
     
